@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="13.125.151.111" id="e0960072-d2c9-442a-af96-20f79295968d" keyPath="C:\Users\yena5\aws\mykey.pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
