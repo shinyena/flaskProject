@@ -19,4 +19,4 @@ def ml():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='13.125.200.235', port=5000, debug=True)
